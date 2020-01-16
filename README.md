@@ -16,12 +16,6 @@ This project will also cover the basics of Git as each person will be creating t
 2. Phoenix *(Web Routing Framework)*
 3. Slack *(Platform)*
 
-
-## Weekly Schedule
-
-The project will consist of six 90-minute workshops every Wednesday (with the exception of midterm week) from 6:30-8:00pm in Engineering 7 *(Behind E5 building)*
-
-
 ## Workshop Breakdown
 
 1. Introduction to our tech stack and IDE setup
